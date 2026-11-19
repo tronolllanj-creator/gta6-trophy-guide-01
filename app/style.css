@@ -1,0 +1,197 @@
+:root {
+  --bg: #0d1026;
+  --fg: #e8eaff;
+  --text: #e8eaff;
+  --text-muted: #7a82a0;
+  --border: #252d55;
+  --panel: #151a33;
+  --card-bg: #151a33;
+  --accent: #ff5da2;
+  --accent-text: #0d1026;
+  --bg-elevated: #1e2548;
+  --grade-color: #b0724f;
+  --platinum-bg: #dfe9ff;
+  --platinum-fg: #1a1a1a;
+  --gold-bg: #f0c040;
+  --gold-fg: #1a1a1a;
+  --silver-bg: #c0c8d0;
+  --silver-fg: #1a1a1a;
+  --bronze-bg: #b0724f;
+  --bronze-fg: #ffffff;
+  --muted: #7a82a0;
+  --accent-pink: #ff5da2;
+  --accent-cyan: #37c8d9;
+  --card: #151a33;
+  --card-border: #252d55;
+  --badge-platinum: #dfe9ff;
+  --badge-gold: #f0c040;
+  --badge-silver: #c0c8d0;
+  --badge-bronze: #b0724f;
+  --chip-bg: #1e2548;
+  --chip-border: #303a66;
+  --input-bg: #10152e;
+  --input-border: #2a335e;
+  --focus: #37c8d9;
+  --progress-bg: #1a1f3a;
+  --progress-fill: #ff5da2;
+  --shadow: rgba(0,0,0,0.4);
+  --font: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --fs: 16px;
+  --radius: 8px;
+  --gap: 12px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font);
+  font-size: var(--fs);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--card-border);
+  background: linear-gradient(180deg, #121733 0%, var(--bg) 100%);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  background: linear-gradient(90deg, var(--accent-pink), var(--accent-cyan));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+header .controls {
+  display: flex;
+  align-items: center;
+  gap: var(--gap);
+}
+
+.toolbar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  z-index: 10;
+}
+.toolbar input,
+.toolbar select {
+  flex: 1 1 auto;
+  min-width: 120px;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--input-bg);
+  color: var(--text);
+}
+.toolbar button {
+  padding: 0.4rem 0.8rem;
+  border: none;
+  border-radius: 4px;
+  background: var(--accent);
+  color: var(--accent-text);
+  cursor: pointer;
+}
+.toolbar button:hover {
+  opacity: 0.9;
+}
+#progressBar {
+  width: 100%;
+  height: 10px;
+  background-color: #e0e0e0;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-top: 8px;
+}
+#progressBar .progress {
+  height: 100%;
+  background-color: #4caf50;
+  border-radius: 5px;
+  transition: width 0.3s ease;
+  width: 0%;
+}
+#progressBar .progress.complete {
+  background-color: #2e7d32;
+}
+#progressBar .progress.warning {
+  background-color: #ff9800;
+}
+#progressBar .progress.danger {
+  background-color: #f44336;
+}
+.trophy {
+  border-radius: 8px;
+  border-left: 6px solid var(--grade-color);
+  background: var(--card-bg);
+  padding: 12px 16px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.grade-platinum { background: #e5c97b; color: #1a1a1a; }
+.grade-gold { background: #ffd700; color: #1a1a1a; }
+.grade-silver { background: #c0c0c0; color: #1a1a1a; }
+.grade-bronze { background: #cd7f32; color: #fff; }
+.chip { display:inline-flex; align-items:center; padding:2px 8px; border-radius:999px; font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:.04em; line-height:1.2; white-space:nowrap; }
+.chip--platinum { background:var(--platinum-bg); color:var(--platinum-fg); }
+.chip--gold { background:var(--gold-bg); color:var(--gold-fg); }
+.chip--silver { background:var(--silver-bg); color:var(--silver-fg); }
+.chip--bronze { background:var(--bronze-bg); color:var(--bronze-fg); }
+
+.earned { opacity:1; }
+.earned .trophy-icon { filter:none; }
+.earned .trophy-title { color:var(--text); }
+.earned::before { content:""; position:absolute; inset:0; border:2px solid var(--accent); border-radius:12px; pointer-events:none; box-shadow:0 0 0 1px var(--bg-elevated); }
+
+.hidden-trophy .trophy-title { color:var(--text-muted); }
+.hidden-trophy .trophy-desc { color:var(--text-muted); }
+.hidden-trophy .trophy-icon { filter:grayscale(1) opacity(.5); }
+.hidden-trophy .chip { opacity:.5; }
+.hidden-trophy::after { content:"Hidden"; position:absolute; top:8px; right:8px; font-size:10px; font-weight:700; text-transform:uppercase; color:var(--text-muted); background:var(--bg-elevated); padding:2px 6px; border-radius:4px; }
+#detail {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+#detail h3 { margin-top: 0; font-size: 1.2rem; }
+#detail .meta { color: var(--muted); font-size: .9rem; margin-bottom: 1rem; }
+#detail .guide { line-height: 1.7; white-space: pre-wrap; }
+#detail .source { margin-top: 1rem; font-size: .85rem; color: var(--muted); }
+#detail .source a { color: var(--accent); }
+
+.roadmap { display: flex; flex-direction: column; gap: .75rem; }
+.stage { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 1rem; }
+.stage h4 { margin: 0 0 .5rem; font-size: 1rem; }
+.stage ul { margin: 0; padding-left: 1.2rem; }
+.stage li { margin: .3rem 0; }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+@media (max-width: 720px) {
+  .app { grid-template-columns: 1fr; }
+  #list { max-height: 40vh; }
+  #detail { max-height: 50vh; }
+}
