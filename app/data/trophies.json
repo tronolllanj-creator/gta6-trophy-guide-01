@@ -1,0 +1,986 @@
+{
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "Earn every other trophy in GTA 6 to unlock this platinum. Focus on story missions, collectibles, and side activities to achieve 100% completion.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Complete all main story missions.",
+        "Collect every hidden collectible.",
+        "Finish all side missions and activities.",
+        "Earn all gold medals on missions.",
+        "Unlock every other trophy."
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "Complete the Gone Fishing mission to unlock this trophy. Progress through the mission objectives until completion.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Start Gone Fishing mission",
+        "Follow mission objectives",
+        "Complete all required tasks"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Progress through the opening chapter of GTA 6's story campaign by completing all mandatory missions. The trophy unlocks automatically upon reaching the end of Chapter 1's final mission.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Start a new game and follow the opening cutscenes",
+        "Complete each story mission marked with a yellow icon",
+        "Finish the final mission of Chapter 1"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "This story trophy unlocks automatically upon finishing all missions in Chapter 2 of the main campaign. Simply progress through the narrative until the chapter concludes.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Start or continue the main story campaign",
+        "Complete all Chapter 2 missions in order",
+        "Watch the chapter completion cutscene"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 3 of the main story campaign to unlock this trophy. Progress through the narrative missions until the chapter concludes naturally.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Start or continue the main story campaign",
+        "Complete all Chapter 3 story missions",
+        "Watch the chapter ending cutscene",
+        "Trophy unlocks automatically upon completion"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "This trophy unlocks automatically upon finishing Chapter 4 of the main campaign. Progress through the story missions until the chapter concludes.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Continue main story missions",
+        "Complete all Chapter 4 objectives",
+        "Watch chapter ending cutscene"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "This gold trophy unlocks automatically upon completing the final story mission of GTA 6. No special preparation is needed beyond reaching the narrative conclusion.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Progress through all main story chapters",
+        "Complete the final mission objective",
+        "Watch the ending credits sequence"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "Complete the Breakfast Run mission that appears early in the main story. Finish all objectives without failing to unlock the trophy.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Start the Breakfast Run mission from the map.",
+        "Follow the waypoint to the diner.",
+        "Deliver the food to the target.",
+        "Return to the safehouse to finish."
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "This trophy unlocks automatically upon finishing the Cartel Heist mission during the main campaign. Progress through the story until this heist becomes available, then complete all its objectives.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Advance the main story to unlock the Cartel Heist",
+        "Prepare weapons, armor, and a fast getaway vehicle",
+        "Complete all heist setup and finale objectives",
+        "Watch the mission completion cutscene"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Complete the 'Child's Play' mission during the main story campaign. This mission becomes available as you progress through the narrative and cannot be missed if you follow the story.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Progress through main story missions",
+        "Reach the 'Child's Play' mission",
+        "Complete all mission objectives",
+        "Watch the mission completion cutscene",
+        "Trophy unlocks automatically"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Complete all missions in the Headliners strand to unlock this trophy. Progress through each mission sequentially as they become available.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Start the Headliners mission series",
+        "Complete each mission objective",
+        "Finish the final Headliners mission"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "This trophy unlocks after finishing the VCIA Takedown story mission. Progress through the main campaign until this operation becomes available.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Advance main story missions",
+        "Reach VCIA Takedown operation",
+        "Complete all mission objectives"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Finish the final mission Operation Savage Glory to earn the trophy. Progress through the story until the mission appears, then complete all objectives.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Reach the mission marker on the map.",
+        "Follow the on-screen objectives during the mission.",
+        "Defeat all enemies and complete the final objective."
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Reach 100% completion by finishing all story missions, side content, collectibles, and activities. Track progress via the in-game checklist and clean up any remaining tasks in post-game.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Complete all main story missions",
+        "Finish all Strangers and Freaks missions",
+        "Collect every hidden collectible",
+        "Complete all side activities and mini-games",
+        "Verify 100% stats in pause menu"
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "This trophy requires performing 250 stunt jumps across the map using vehicles. Progress accumulates naturally during exploration and can be finished in post-game cleanup.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Find stunt ramp locations on the map",
+        "Use fast vehicles like motorcycles or sports cars",
+        "Hit each ramp at sufficient speed to trigger the stunt cinematic",
+        "Track progress in the stats menu under stunt jumps completed",
+        "Replay missed jumps via map markers until counter reaches 250"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "Complete one instance of every distinct activity type scattered across Vice City. Activities include races, sports, mini-games, and side hustles marked on the map.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Open map and filter for activity icons",
+        "Complete one race event",
+        "Play one sport or mini-game",
+        "Finish one side hustle mission",
+        "Check trophy progress in menu"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "Visit every shooting range across the map and complete each challenge with a gold medal score. Practice each weapon type to master the required accuracy and speed thresholds.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Locate all shooting ranges on the map",
+        "Complete each challenge with gold medal",
+        "Practice weapon handling for better accuracy",
+        "Replay challenges to improve scores"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "Complete every Top Fun Drone Race location across the map to earn this trophy. Each race is a repeatable side activity marked on the map.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Open map and filter for Top Fun Drone Race icons",
+        "Travel to each location and start the race",
+        "Win first place at every unique location"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Win 20 distinct races across the map. Replay any race type until the counter reaches 20.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Open race menu from map",
+        "Select 20 unique race events",
+        "Finish first in each race",
+        "Track progress in trophies menu",
+        "Repeat any missed races"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Challenge Cal to a fishing competition at any available pier or waterfront location. Win by catching larger or more valuable fish within the time limit to unlock this trophy.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Find Cal near a fishing spot",
+        "Accept his fishing challenge",
+        "Catch bigger fish than Cal",
+        "Complete the challenge to win"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Find any arcade cabinet in the game world and play a mini-game to completion. These retro diversions are scattered across bars, arcades, and safehouses for easy access.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Locate an arcade cabinet in any bar",
+        "Interact with the machine to start playing",
+        "Finish the mini-game to unlock trophy"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Finish Andy's concluding story mission when it becomes available during the campaign. The mission unlocks naturally as you progress through his mission strand.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Advance the main story until Andy's final mission appears",
+        "Accept the mission from Andy's contact point",
+        "Complete all mission objectives to finish his storyline"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "This trophy unlocks by finishing Kenton's last storyline mission. Progress through his mission chain until the final one appears and complete it.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Meet Kenton to start his mission line",
+        "Complete all preceding Kenton missions",
+        "Finish the final Kenton mission",
+        "Trophy unlocks after mission completion"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Finish Billy's concluding story mission as it unlocks naturally through the campaign. No special preparation is needed beyond reaching that narrative point.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Progress through Billy's mission line",
+        "Accept his final mission marker",
+        "Complete all mission objectives"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "Complete eight distinct stranger mission threads scattered throughout Leonida's map. Each strand involves multiple encounters with the same NPC that unlock progressively.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Explore Leonida to discover stranger mission markers",
+        "Complete all encounters for each individual NPC",
+        "Track progress via the mission log menu",
+        "Finish eight full strands to unlock trophy"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "Complete Randy's mission strand by finishing his last assignment. This bronze trophy unlocks automatically when the final mission in his storyline concludes.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Progress through Randy's mission chain",
+        "Accept his final mission when available",
+        "Complete all objectives to finish"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Finish Tyrone's last storyline mission to unlock the trophy. Ensure you complete all preceding tasks for him first.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Start Tyrone's mission chain from his contact.",
+        "Complete each preceding mission in order.",
+        "Play and finish his final mission."
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "This trophy requires finding and meditating at all designated meditation locations scattered throughout Leonida's open world. Use the in-game map or online collectible guides to track each spot and complete the meditation interaction at every one.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Open map and locate all meditation spot icons",
+        "Travel to each marked location across Leonida",
+        "Interact to meditate at every spot",
+        "Confirm trophy unlocks after last meditation"
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Complete Bret's hunting request by tracking and taking down a unique animal in the wilderness. Use your hunting skills and appropriate weapons to secure the trophy kill.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Find Bret's hunting mission marker on the map",
+        "Track the unique animal using Eagle Eye or signs",
+        "Kill the animal cleanly with a suitable weapon",
+        "Return to Bret to complete the mission"
+      ],
+      "kind": "activities",
+      "missable": true,
+      "missable_reason": "Unique animal hunt may be a one-time side mission that disappears after story progression",
+      "hidden": false
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Collect three full sets of collectible cards scattered across Vice City. Each set requires finding multiple individual cards hidden in the open world.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Explore Vice City to locate card collectibles",
+        "Pick up cards to progress set completion",
+        "Complete three full sets to unlock trophy"
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "This trophy requires using the in-game WAiNK social media app to post content at 100 distinct map locations. Progress tracks automatically across both protagonists' playthroughs and free roam.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Unlock WAiNK app via story progression",
+        "Travel to undiscovered map regions",
+        "Select WAiNK It at each location",
+        "Repeat until counter reaches 100"
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "This trophy requires completing 50 in-game challenges across various categories like weapons, vehicles, and exploration. Progress tracks automatically, so focus on diverse activities to unlock it naturally.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Open challenges menu to view available categories",
+        "Complete daily and weekly challenges first",
+        "Focus on combat, driving, and exploration tasks",
+        "Track progress in pause menu statistics",
+        "Repeat until 50 total challenges finished"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "Reach a four-star wanted level while accompanied by your story partner, then evade pursuit until the wanted meter clears. The co-op dynamic means both characters must survive the escape together.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Trigger 4-star wanted level with partner",
+        "Find vehicle or cover to lose sightlines",
+        "Stay out of radar cones until stars vanish"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "This trophy requires coordinating three consecutive store robberies with your partner while maintaining a clean wanted level throughout. Prepare fast vehicles and suppressed weapons to quickly hit targets and evade police between robberies.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Equip suppressed weapons and fast getaway vehicle",
+        "Rob first store with partner present",
+        "Evade police quickly before next robbery",
+        "Repeat for two more stores consecutively",
+        "Maintain zero wanted level throughout chain"
+      ],
+      "kind": "activities",
+      "missable": true,
+      "missable_reason": "Requires specific multi-store robbery chain without wanted level",
+      "hidden": false
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "This trophy requires finding and entering 100 different vehicles across Vice City. Use the in-game vehicle tracking system to monitor progress and prioritize rare spawns.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Enter any 100 unique vehicle models",
+        "Check progress in the pause menu stats",
+        "Target rare spawns like helicopters and boats",
+        "Switch characters to access different vehicle pools",
+        "Revisit areas at different times for variety"
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Activate Combat Focus during a firefight and eliminate five foes before the effect ends. Stock up on ammo and find a dense enemy encounter to maximize your chances.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Enter Combat Focus ability during combat.",
+        "Target and shoot five enemies quickly.",
+        "Ensure all five die before focus expires.",
+        "Retry if needed; ability recharges over time."
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "Steal an aircraft from Vice City International Airport and take off without authorization. This can be done during free roam by entering any plane or helicopter on the tarmac and flying away.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Travel to VCIA airport in Vice City",
+        "Enter any parked aircraft on the runway",
+        "Take off and fly away from the airport"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "Earn this trophy by commandeering a Rhino tank and surviving intense heat while causing chaos. Use the vehicle's firepower to maintain a high wanted level until the requirement is met.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Obtain a Rhino tank via cheat or mission",
+        "Raise your wanted level to maximum",
+        "Stay alive in the tank for the required duration"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Complete a jewelry store robbery using stealth to avoid detection entirely. Use suppressed weapons, stay out of sight lines, and hack alarms before they trigger.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Enter jewelry store during quiet hours",
+        "Equip suppressed weapon and stealth outfit",
+        "Disable alarm system before grabbing loot",
+        "Exit without alerting guards or cameras",
+        "Deliver stolen goods to fence"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "Complete five bank vault heists by infiltrating the vault, securing the loot, and successfully evading law enforcement. Each robbery requires careful planning, the right crew, and a clean getaway vehicle.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Locate bank vault locations across the map",
+        "Recruit skilled crew members for each heist",
+        "Execute the vault breach and grab the cash",
+        "Escape the wanted level using getaway routes",
+        "Repeat for five separate bank vaults"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Hijack an armored truck during its random patrol and lose the resulting wanted level. These trucks appear spontaneously on roads, so drive highways until one spawns, then steal it and escape the police.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Patrol highways until armored truck appears",
+        "Stop truck and eliminate guards",
+        "Enter truck and drive away",
+        "Lose wanted level to complete"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Reveal the entire Leonida map by visiting every named region and location. Use vehicles and aircraft to efficiently cover ground and uncover all fogged areas.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Complete main missions to unlock map regions",
+        "Fly across the map in a helicopter",
+        "Drive to remaining undiscovered locations",
+        "Check map for fogged areas",
+        "Visit all named neighborhoods and wilderness"
+      ],
+      "kind": "collectibles",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "Locate and rob illegal operations run by every gang in Vice City. Complete each gang's operation to unlock the trophy.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Open map and find illegal operation markers",
+        "Approach each gang's operation site",
+        "Complete the robbery objective",
+        "Repeat for all remaining gangs"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "Visit Ocean Beach during the story or free roam to find a beachside bar. Order a cocktail and enjoy the view to unlock this trophy.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Travel to Ocean Beach area",
+        "Locate a beachfront bar or vendor",
+        "Purchase and consume a cocktail",
+        "Wait for trophy notification"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "Complete the story mission where you escape a vehicle showroom by smashing through the exit. This references the classic Vice City mission of the same name.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Reach the vehicle showroom mission in the story",
+        "Steal a vehicle from the showroom floor",
+        "Smash through the glass exit to escape",
+        "Complete the mission to unlock the trophy"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "Visit the Kolt & Associates bowling alley and complete a game with a successful follow‑through. The alley unlocks early, so you can earn this anytime during free roam.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Travel to the Kolt & Associates bowling alley.",
+        "Start a bowling match from the menu.",
+        "Score a strike using follow‑through technique.",
+        "Finish the game to unlock trophy."
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "Complete the partnership mission that unlocks through natural story progression. This trophy triggers automatically when you finish the required collaborative objective with your story partner.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Progress through main story missions",
+        "Reach the partnership mission chapter",
+        "Complete all partnership objectives",
+        "Watch the completion cutscene"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "This trophy unlocks when you make a pivotal narrative decision during the main campaign. The choice occurs at a specific story juncture and cannot be revisited once passed.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Progress through main story missions",
+        "Reach the critical decision point",
+        "Select your preferred narrative outcome",
+        "Confirm choice to unlock trophy"
+      ],
+      "kind": "story",
+      "missable": true,
+      "missable_reason": "One-time story choice that cannot be replayed without restarting",
+      "hidden": true
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "This trophy unlocks when you successfully complete a failed mission or activity on your second attempt. Simply retry the objective after failing once to earn it.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Fail a mission or activity intentionally",
+        "Select retry from the mission menu",
+        "Complete the objective on the second try"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "This trophy unlocks when you experience a bizarre, unexplained event during the main story. Trigger the encounter by exploring the map at night and investigating unusual phenomena.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Play through main story missions",
+        "Explore wilderness areas at night",
+        "Investigate strange lights or sounds",
+        "Complete the resulting encounter"
+      ],
+      "kind": "story",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": true
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "Knock down multiple enemies in one motion by performing a melee attack while driving past them on a motorcycle. This stunt counts in free roam and requires lining up a group of pedestrians or hostiles.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Grab a motorcycle and build moderate speed",
+        "Target a cluster of 3+ NPCs on foot",
+        "Press melee attack while driving past them"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "This trophy requires accumulating $250,000 by laundering Marked Bills through your criminal contacts. Focus on completing laundering jobs regularly to reach the total efficiently.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Acquire Marked Bills from missions or activities",
+        "Visit contact to launder bills",
+        "Repeat until $250,000 total laundered",
+        "Track progress in stats menu"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "This trophy requires accumulating $100,000 in total purchases across all in-game shops. Money carries between characters, so spend freely on weapons, clothes, vehicles, and services to reach the threshold naturally.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Earn money through missions and activities",
+        "Visit various shops across the map",
+        "Purchase items until cumulative spending hits $100,000",
+        "Track progress in stats menu"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "Buy every garage property available across the map to unlock this trophy. Check the Dynasty 8 website or visit each location directly to complete all purchases.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Open Dynasty 8 website on phone",
+        "Browse garage listings for available properties",
+        "Purchase each garage one by one",
+        "Confirm all garages show as owned"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Register ten different vehicles using the Scooter Bros app on your in-game phone. You can do this anytime while exploring Vice City.",
+      "source": "PowerPyx - GTA 6 Trophy Guide",
+      "steps": [
+        "Open phone and launch Scooter Bros app",
+        "Approach any drivable vehicle and select register",
+        "Repeat with nine more unique vehicles",
+        "Trophy unlocks after tenth registration"
+      ],
+      "kind": "activities",
+      "missable": false,
+      "missable_reason": "",
+      "hidden": false
+    }
+  ]
+}
