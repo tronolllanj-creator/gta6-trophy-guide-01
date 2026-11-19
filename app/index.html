@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GTA VI Trophy Guide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>GTA VI Trophy Guide</h1>
+    <p>All 55 PlayStation 5 trophies - guide, tracker and roadmap to the platinum</p>
+  </header>
+  <div class="toolbar">
+    <input type="search" id="search" placeholder="Search trophies...">
+    <select id="kind">
+      <option value="all">All</option>
+      <option value="story">Story</option>
+      <option value="missable">Missable</option>
+      <option value="collectibles">Collectibles</option>
+      <option value="activities">Activities</option>
+      <option value="online">Online</option>
+    </select>
+    <select id="grade">
+      <option value="all">All</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+    <label><input type="checkbox" id="hideEarned"> Hide earned</label>
+    <button id="spoilerBtn" aria-pressed="false">Show spoilers</button>
+    <button id="export">Export</button>
+    <label id="import" for="importFile">Import<input type="file" id="importFile" accept=".json" hidden></label>
+    <button id="roadmapBtn">Roadmap</button>
+    <button id="checklistBtn">Checklist</button>
+  </div>
+  <main>
+    <div id="progress"></div>
+    <div id="progressBar"><div class="fill"></div></div>
+    <div id="roadmapPanel" hidden></div>
+    <div id="list"></div>
+  </main>
+  <div id="detail" hidden></div>
+<footer>Guides in our own words; sources cited per trophy. Not affiliated with Rockstar Games.</footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>
