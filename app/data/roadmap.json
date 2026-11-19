@@ -1,0 +1,105 @@
+{
+  "roadmap": {
+    "title": "Roadmap to the Platinum",
+    "stages": [
+      {
+        "stage": 1,
+        "title": "Story Completion & Core Progression",
+        "summary": "Finish the main campaign and unlock all story-related trophies while naturally discovering the map and core mechanics.",
+        "trophies": [
+          "Just Like Paradise",
+          "Paradise Lost",
+          "T**s Ass Drug Money",
+          "Vice City, Baby!",
+          "Top Of The World, Ma",
+          "You Gotta Know When to Get Off",
+          "Trust",
+          "Break the Bank",
+          "Family Matters",
+          "DWNFALL",
+          "Hi-Jacked",
+          "Snow Storm",
+          "Road to Rehabilitation",
+          "This Was No Boat Accident",
+          "The Lone Rider",
+          "Supply & Demand",
+          "Spin On This!",
+          "Hot Together",
+          "Capital Offense",
+          "Personal Best",
+          "Actions Speak Louder",
+          "The Truth Is Out There"
+        ],
+        "notes": "Play on any difficulty; story trophies are unmissable and unlock sequentially."
+      },
+      {
+        "stage": 2,
+        "title": "Open World Exploration & Side Content",
+        "summary": "Sweep the map for collectibles, complete all stranger missions, side activities, and discover every named location.",
+        "trophies": [
+          "A Long Road",
+          "Positive Mental Attitude",
+          "Don't Touch My Deck",
+          "You WAiNKer!",
+          "Whip It Good",
+          "The Goodtime State",
+          "Cunning Stunts",
+          "Catch Me If You Can",
+          "Challenging Tank",
+          "Let\u2019s Go Bowling",
+          "Ten Pin",
+          "Strangers & Freaks",
+          "Top Fun",
+          "Baited My Tackle",
+          "Fair Game",
+          "Retail Therapy"
+        ],
+        "notes": "Use the in-game checklist and map filters; nothing is missable post-story."
+      },
+      {
+        "stage": 3,
+        "title": "Combat Mastery & Challenge Cleanup",
+        "summary": "Max out weapon proficiency, survive escalating wanted levels, and knock out all combat, driving, and stunt challenges.",
+        "trophies": [
+          "The Shootist",
+          "Gunslinger",
+          "Maximum Withdrawal",
+          "A Classic Blitz Play",
+          "Pest Control",
+          "On the Spot",
+          "Stick Fiddler",
+          "One Last Thing",
+          "Master of None"
+        ],
+        "notes": "Grind in private sessions or low-pop lobbies to avoid interference; track progress via stats menu."
+      },
+      {
+        "title": "Stage 4: Completionist & Mastery",
+        "summary": "Wrap up all remaining side content, achieve 100% completion, and master every gameplay system.",
+        "trophies": [
+          "Earn Cash, Not Kudos",
+          "Sneakthief",
+          "In The Beginning\u2026",
+          "Bad Luck, I Guess",
+          "Dime on the Dollar",
+          "Treat Yo Self",
+          "Little Boxes"
+        ],
+        "notes": "Requires 100% completion tracker fulfillment; purchase all safehouses, win all races, and complete every side activity."
+      },
+      {
+        "title": "Stage 5: Platinum Cleanup",
+        "summary": "Mop up any missed miscellaneous trophies and claim the platinum.",
+        "trophies": [
+          "Vice Got a Price!"
+        ],
+        "notes": "Final sweep for any overlooked bronze trophies; 'Welcome to Vice City' unlocks on first launch if missed."
+      }
+    ],
+    "missable_first": [
+      "Fair Game",
+      "Retail Therapy",
+      "Actions Speak Louder"
+    ]
+  }
+}
